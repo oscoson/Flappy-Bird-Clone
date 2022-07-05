@@ -1,2 +1,2 @@
-# Flappy Bird Clone
- A clone of the popular mobile game "Flappy Bird" recreated in Unity
+# Playable Game Demo
+ The game has been recreated with some minor improvements and can be played here: https://oscosan.itch.io/flappy-bird
