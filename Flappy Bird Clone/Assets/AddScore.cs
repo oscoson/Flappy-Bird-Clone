@@ -8,5 +8,9 @@ public class AddScore : MonoBehaviour
     {
         
         Score.score++;
+        if(Score.score > Score.highScore)
+        {
+            Score.highScore = Score.score;
+        }
     }
 }

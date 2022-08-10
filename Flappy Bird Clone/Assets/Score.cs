@@ -18,10 +18,6 @@ public class Score : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(score > highScore)
-        {
-            highScore = score;
-        }
         scoreString.text = score.ToString();
     }
 }
